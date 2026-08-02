@@ -22,5 +22,4 @@ This project presents an interactive Employee Attrition Dashboard developed usin
 - Employee_Attrition_Dashboard.pbix
 - cleaned_employee.csv
 
-## 👩‍💻 Author
-**Shannon Francis Kounder**
+
